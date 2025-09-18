@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ovxrdose&color=336ea1&style=plastic&label=)
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=ovxrdose&color=95b870&plastic&label=souls+⠀"></img></p>
 
 ![ac](https://files.catbox.moe/uyqs9e.png)
 
