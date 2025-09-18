@@ -1,4 +1,4 @@
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=ovxrdose&color=95b870&plastic&label=souls+⠀"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=ovxrdose&color=95b870&plastic&label=SILLIES"></img></p>
 
 ![ac](https://files.catbox.moe/uyqs9e.png)
 
